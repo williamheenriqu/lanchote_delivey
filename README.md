@@ -1,3 +1,4 @@
+<img width="387" height="516" alt="images" src="https://github.com/user-attachments/assets/0dbe70a3-60aa-4ee1-a696-6f2e5a3def5a" />
 comidas=[{id:"hamburguer",nome:"Hambúrguer artesanal",preco:28,emoji:"🍔",img:"https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=600"},{id:"queijo",nome:"Hambúrguer com queijo",preco:30,emoji:"🧀",img:"https://images.unsplash.com/photo-1553979459-d2229ba7433a?w=600"}];
 const bebidas=[{id:"coca",nome:"Coca-Cola",preco:7,emoji:"🥤",img:"https://images.unsplash.com/photo-1554866585-cd94860890b7?w=600"},{id:"uva",nome:"Suco de uva",preco:8,emoji:"🍇",img:"https://images.unsplash.com/photo-1534353473418-4cfa6c56fd38?w=600"}];
 const TAXA_MOTOBOY=7,VALOR_DESCONTO=100,PERCENTUAL=0.05;
